@@ -1,0 +1,4 @@
+flask
+uuid
+base64
+pytest

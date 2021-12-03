@@ -1,0 +1,17 @@
+{
+    "env": [
+        {        
+            "name": "stage",
+            "user": "testUser",
+            "password": "flexRuntimeIsAwesome",
+            "baseurl": "http://localhost:8080"    
+        },
+        {        
+            "name": "prod",
+            "user": "testUser",
+            "password": "flexRuntimeIsAwesome",
+            "baseurl": "http://localhost:8080"
+        }
+    ]
+
+}
